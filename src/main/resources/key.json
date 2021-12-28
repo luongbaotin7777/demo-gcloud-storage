@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fluid-tangent-320302",
+  "private_key_id": "4d35974673d2673a026420ce7e27c466f186a226",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQChowxELjhgL/Fa\nkccEYLe0+IaWcQRf3xh2fd8D8lZyAnzuY2eR73dsa+hMjH5xKVUe8u9ubTRC0Bnr\n8zWWaKHKZDiELugQRZlG18zyaDLfn4Y4zRGyWq0uCaFC9hDk1FPW+rRdOBDYqrUN\nAhkeAjZ2xjmeHMZ2DuLA2s3W51H7zQKVrrn0oeAdkE9xZ5PX651adriyqB1WL7Jd\nZpkNTtsQb6yJdd8dqPJHcAXCDeUdP8XOtmL05bOv9F08QRPwM1aXxrSxVxfRa1mD\niOruQ0a50wkkqVDgTtZ2Ab9gZEd06KeR5dGsX5mkNwUmClnuZk7UJaPZm//3nANA\nVR7IwdThAgMBAAECgf8VQiyBr6315lhRF/st/xOX++oTCGERxAgRVqXXWC7viyjM\nX11mqMOFU5BzAOvyn00HQrn/ab1zlUH4FmJl44YtDNg0U4AkSEw5nizhvgTglrhA\ne6XV6G3+eTgMZoLW3uhn8nEvfy3u43J6Lu6+wVl2JaCXev8V+izvYrMY/A7qA33o\nEZUTh4rldjjG6iFg3TsY6UnCAImStjd2tzcXvqo5qbNfEOF+CzIuY327vRix/gO3\nU4PqK5p6gmEC9GP5yEEu/IIlibgNMXEVNqq7730p1mnHzSvJIPqTDVlZyJ/iWYc9\n92wSnBlbrgNyEwYRRu0WC+pPx+KIVhgM6lHiyZECgYEA1AB3CvfCDdUdkbtnRb6+\niIOqfPVNzqiS2PyXLkwvof/wLYmkd2tfF4T1kI91fyWxZVSzrtlh93H5wxFUhU13\ndYTk04lhyZpl00Gfqmy9zRdzpkymlaZ2SQxi6PH+SzuW4NYZ+WI/3/rdsqMrY0ty\nZyWCgv9zNwRH6fCVMrfLN1ECgYEAwy65XRnCM6dAoA/L7APmqtJSoyKJjU8Nk/QY\nZGdonhqQfOfucaPKj4c/pcJlji7R9ULOxqQvNt4DSfiYcZEPQe+3wZiRpt+BZo96\nmTlk0rIm3W6Ug03VLxD/NR/uSSceK1KLQhkjgsgnc6Mg6TP6z2adJMgaqet4ETYn\narFPgJECgYEAxuGcy7w73tAkCjf9nO9hPR4PzWQu1wVLpaXoibVNJjO89Gtgz+r5\nbU39NN1wQ5Rvw/jfC9PA1OqmfTn/yYIv5B6EsHH8O63Ngo7Yo3+Z2xH6G3Ni/5cG\n9mZZT+DdR2SimVAhU9O4yn1Eh7YNGPyJWXxV4GCWjHFGqY9Z2BeV29ECgYB8GgtW\nPPiT6zZWD3Uznc9esdhFTcJ0DN2vQzb3MCD+1hkksjuUGfbDh9VaSd5Up0RsU4wy\nFVbH5iXlNKGJJBi1bfxCpgWGOvqGAZiMMEgBB7FafeMEEcsI4B/E4YabELpIBXXy\nExXXI/ihuAlG/fvtP2uPZYQ+oi93kh1B43ePYQKBgQCSp4oJQQu9OlnVQXMMwPiQ\nfFouUMogDPgAXR95wX+SzrTEc1F1WdLh1g0lbzibMr+zy1YE2oETyB4QA1woUDhX\ndP8bGrWYa7/V9NKrjLIKwmd81H5bBGte4hV4YiQeqJUaRQITCgKOKzJDrF0bDjjx\nkzDX0pIXFOr8y6V+aWgLYw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lbtinstorage@fluid-tangent-320302.iam.gserviceaccount.com",
+  "client_id": "103086321115092919956",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lbtinstorage%40fluid-tangent-320302.iam.gserviceaccount.com"
+}
